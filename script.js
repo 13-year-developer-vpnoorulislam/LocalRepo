@@ -1,1 +1,1 @@
-prompt("Hey");
+prompt("Fuck YOU");
