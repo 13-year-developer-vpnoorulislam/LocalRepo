@@ -1,1 +1,1 @@
-prompt("Fuck YOU");
+prompt("Workflow");
